@@ -393,16 +393,8 @@
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.38f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.38f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/6000.0.38f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/olivia/Scenes/Animate.cs"
 "Assets/olivia/Scenes/Audio/AudioReactive.cs"
 "Assets/olivia/Scenes/Audio/AudioSpectrum.cs"
-"Assets/olivia/Scenes/Audio/Mic/MicInput.cs"
-"Assets/olivia/Scenes/Audio/Mic/MicReactive.cs"
-"Assets/olivia/Scenes/Create.cs"
-"Assets/olivia/Scenes/Lerp.cs"
-"Assets/olivia/Scenes/Lerp0.cs"
-"Assets/olivia/Scenes/Lerp2.cs"
-"Assets/olivia/Scenes/Randomly.cs"
 -langversion:9.0
 /deterministic
 /optimize+

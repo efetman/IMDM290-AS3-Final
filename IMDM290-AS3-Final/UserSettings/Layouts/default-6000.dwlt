@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1470
     height: 891
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -190,7 +190,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 320
+    width: 226
     height: 514.5
   m_MinSize: {x: 201, y: 226}
   m_MaxSize: {x: 4001, y: 4026}
@@ -214,9 +214,9 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 320
+    x: 226
     y: 0
-    width: 821.5
+    width: 915.5
     height: 514.5
   m_MinSize: {x: 202, y: 226}
   m_MaxSize: {x: 4002, y: 4026}
@@ -301,9 +301,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 320
+    x: 226
     y: 101
-    width: 819.5
+    width: 913.5
     height: 488.5
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -914,7 +914,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 24
-    width: 319
+    width: 225
     height: 488.5
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -932,7 +932,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2efbffff20790000
+      m_ExpandedIDs: 2efbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -978,9 +978,9 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 321
+    x: 227
     y: 24
-    width: 819.5
+    width: 913.5
     height: 488.5
   m_SerializedDataModeController:
     m_DataMode: 0
@@ -999,7 +999,7 @@ MonoBehaviour:
   m_ShowGizmos: 0
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
-  m_TargetSize: {x: 819.5, y: 467.5}
+  m_TargetSize: {x: 1662, y: 935}
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 1
@@ -1008,16 +1008,16 @@ MonoBehaviour:
   m_VSyncEnabled: 0
   m_Gizmos: 0
   m_Stats: 0
-  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 01000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -204.875
-    m_HBaseRangeMax: 204.875
-    m_VBaseRangeMin: -116.875
-    m_VBaseRangeMax: 116.875
+    m_HBaseRangeMin: -415.5
+    m_HBaseRangeMax: 415.5
+    m_VBaseRangeMin: -233.75
+    m_VBaseRangeMax: 233.75
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1035,26 +1035,26 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 21
-      width: 819.5
+      width: 913.5
       height: 467.5
-    m_Scale: {x: 2, y: 2}
-    m_Translation: {x: 409.75, y: 233.75}
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 456.75, y: 233.75}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -204.875
-      y: -116.875
-      width: 409.75
-      height: 233.75
+      x: -456.75
+      y: -233.75
+      width: 913.5
+      height: 467.5
     m_MinimalGUI: 1
-  m_defaultScale: 2
-  m_LastWindowPixelSize: {x: 1639, y: 977}
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1827, y: 977}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
-  m_LowResolutionForAspectRatios: 01000000000000000000
+  m_LowResolutionForAspectRatios: 00000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
   m_showToolbar: 1
@@ -1167,9 +1167,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fe790000
-    m_LastClickedID: 31230
-    m_ExpandedIDs: 000000006e790000707900007279000074790000
+    m_SelectedIDs: c8790000
+    m_LastClickedID: 31176
+    m_ExpandedIDs: 000000006c7900006e7900007079000072790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1198,7 +1198,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e790000707900007279000074790000
+    m_ExpandedIDs: 000000006c7900006e7900007079000072790000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
