@@ -102,7 +102,7 @@ public class AudioReactive : MonoBehaviour
             currentPosition.y += verticalOscillation; 
             spheres[i].transform.position = currentPosition;
                        
-            float scale = 1f + AudioSpectrum.audioAmp;
+            float scale = 1f + AudioSpectrum.audioAmp/2; // adjust object reactivity here // set lower for vocals only 
             spheres[i].transform.localScale = new Vector3(scale, scale, scale);
             spheres[i].transform.Rotate(AudioSpectrum.audioAmp, 1.0f, 1.0f);
         }
