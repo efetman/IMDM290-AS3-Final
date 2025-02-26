@@ -1,0 +1,1929 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Assembly-CSharp.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.EditorCoroutines.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.EditorCoroutines.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Performance.Profile-Analyzer.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Performance.Profile-Analyzer.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.PlasticSCM.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.PlasticSCM.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Rider.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Rider.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.SettingsProvider.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Shared.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Shared.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualStudio.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualStudio.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.EditorCoroutines.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.EditorCoroutines.Editor.csproj",
+        "projectName": "Unity.EditorCoroutines.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.EditorCoroutines.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.EditorCoroutines.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj",
+        "projectName": "Unity.Multiplayer.Center.Common",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Multiplayer.Center.Common/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Editor.csproj",
+        "projectName": "Unity.Multiplayer.Center.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Multiplayer.Center.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Multiplayer.Center.Common.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Performance.Profile-Analyzer.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "projectName": "Unity.Performance.Profile-Analyzer.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Performance.Profile-Analyzer.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Performance.Profile-Analyzer.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.PlasticSCM.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.PlasticSCM.Editor.csproj",
+        "projectName": "Unity.PlasticSCM.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.PlasticSCM.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.PlasticSCM.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Rider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Rider.Editor.csproj",
+        "projectName": "Unity.Rider.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Rider.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Rider.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Settings.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Settings.Editor.csproj",
+        "projectName": "Unity.Settings.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Settings.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Settings.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Settings.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Settings.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Model",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Model/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "projectName": "Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.TestTools.CodeCoverage.Editor.OpenCover.Mono.Reflection/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.TextMeshPro/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.Editor.csproj",
+        "projectName": "Unity.TextMeshPro.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.TextMeshPro.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.TextMeshPro.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj",
+        "projectName": "Unity.Timeline",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Timeline/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.Editor.csproj",
+        "projectName": "Unity.Timeline.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.Timeline.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.Timeline.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj",
+        "projectName": "Unity.VisualScripting.Core",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.Core/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Core.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.Core.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj",
+        "projectName": "Unity.VisualScripting.Flow",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.Flow/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Flow.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.Flow.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.SettingsProvider.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "projectName": "Unity.VisualScripting.SettingsProvider.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.SettingsProvider.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.SettingsProvider.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Shared.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Shared.Editor.csproj",
+        "projectName": "Unity.VisualScripting.Shared.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Shared.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.Shared.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj",
+        "projectName": "Unity.VisualScripting.State",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.State/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj",
+        "projectName": "Unity.VisualScripting.State.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualScripting.State.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Core.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.Flow.Editor.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualScripting.State.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualStudio.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualStudio.Editor.csproj",
+        "projectName": "Unity.VisualStudio.Editor",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Unity.VisualStudio.Editor.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/Unity.VisualStudio.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.UI.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEditor.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj"
+              },
+              "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+                "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/UnityEngine.UI.csproj",
+        "packagesPath": "/Users/lanifetman/.nuget/packages/",
+        "outputPath": "/Users/lanifetman/IMDM290-/trytofix/IMDM290-AS3-Final/IMDM290-AS3-Final/Temp/obj/Debug/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/lanifetman/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

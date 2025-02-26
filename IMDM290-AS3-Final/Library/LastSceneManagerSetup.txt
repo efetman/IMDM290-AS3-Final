@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Amanda's Scene.unity
+- path: Assets/FinalFolder/FinalScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
