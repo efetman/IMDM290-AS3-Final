@@ -10,4 +10,4 @@ Audio Mixing and Spheres: Olivia
 
 Final Comp and Code: Elana 
 
-[![thumbnail](https://img.youtube.com/vi/IV84rju9FOo/0.jpg)](https://www.youtube.com/watch?v=IV84rju9FOo)
+[![thumbnail](https://img.youtube.com/vi/JK1ZzLReCSU/0.jpg)](https://www.youtube.com/watch?v=JK1ZzLReCSU)
