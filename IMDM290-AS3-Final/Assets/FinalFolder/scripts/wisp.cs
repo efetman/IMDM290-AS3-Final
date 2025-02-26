@@ -27,7 +27,7 @@ public class wisps : MonoBehaviour
         for (int i = 0; i < numberOfSpheres; i++)
         {
             spheres[i] = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-            spheres[i].transform.position = new Vector3(i * 0.2f, 0, -20f);
+            spheres[i].transform.position = new Vector3((i * 0.2f) - 100f, 0, -20f);
             spheres[i].transform.localScale = new Vector3(0.3f, 0.3f, 0.3f - 20f);
             
 

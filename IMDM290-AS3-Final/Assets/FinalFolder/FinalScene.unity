@@ -153,7 +153,7 @@ MonoBehaviour:
   spiralSpacing: 0.3
   rotationSpeed: 30
   expansionSpeed: 0.5
-  startDelay: 3
+  startDelay: 2
 --- !u!4 &256663485
 Transform:
   m_ObjectHideFlags: 0
@@ -198,8 +198,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8c58e9abf5dba4a9c83e81b825537ff5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  numberOfSpheres: 100
-  totalDisappearTime: 2
+  numberOfSpheres: 200
+  totalDisappearTime: 0.5
   waveSpeed: 15
   waveHeight: 3
 --- !u!4 &289451544
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21edd1c3accd14564927fa0dfbd7ba32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startDelay: 3
+  startDelay: 2
   sphereSpawnDelay: 0.03
   transitionSpeed: 1
 --- !u!4 &781461381

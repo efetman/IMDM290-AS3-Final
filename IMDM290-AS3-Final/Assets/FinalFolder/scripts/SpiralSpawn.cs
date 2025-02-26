@@ -87,10 +87,13 @@ public class SpiralSpawners : MonoBehaviour
         
         for (int i = 0; i < numberOfCircles; i++)
         {
-            if (Time.time - startTime >= openDelay && Time.time - startTime <= openDelay + 25)
+            if (Time.time - startTime >= openDelay && Time.time - startTime <= openDelay + 25.5)
             {
                 
                 distances[i] = Mathf.Sqrt(i) * spiralSpacing + (Time.time - startTime - openDelay) * expansionSpeed;// gradually expands the distance after a certain time (openDelay)
+            }
+            else if (Time.time - startTime >= openDelay + 32){
+                distances[i] = Mathf.Sqrt(i) * spiralSpacing + (Time.time - startTime - openDelay) * expansionSpeed;
             }
             else
             {

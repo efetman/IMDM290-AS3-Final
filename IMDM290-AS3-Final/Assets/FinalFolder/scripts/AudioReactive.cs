@@ -143,7 +143,7 @@ public class AudioReactive : MonoBehaviour
             }
         }
         // 4th part 
-        else if (Time.time >= 67f && Time.time <= 74f)
+        else if (Time.time >= 67f && Time.time <= 72.6f)
         {
             transitionProgress += Time.deltaTime * transitionSpeed;
             transitionProgress = Mathf.Clamp01(transitionProgress); // Keep it between 0 and 1
@@ -155,7 +155,7 @@ public class AudioReactive : MonoBehaviour
             }
         }
         // 5th part 
-        else if (Time.time > 74f)
+        else if (Time.time > 72.6f && Time.time <= 81)
         {
             for (int i = 0; i < totalSpheres; i++)
             {
@@ -174,6 +174,13 @@ public class AudioReactive : MonoBehaviour
                 spheres[i].transform.Rotate(AudioSpectrum.audioAmp, 1.0f, 1.0f);
             }
         }
+        else if(Time.time > 81){
+            for (int i = 0; i < totalSpheres; i++)
+            {
+                spheres[i].SetActive(false);
+            }
+        }
+        
     }
 
 
@@ -181,14 +188,14 @@ public class AudioReactive : MonoBehaviour
     // Method to calculate the position of the spheres in the exact "a" shape
     Vector3 GetAPosition(int i)
     {
-        float r = 1f; // Radius for the loop
+        float r = 3f; // Radius for the loop
         float t = (float)i / totalSpheres * 2 * Mathf.PI; // Spread spheres evenly
 
         if (i < totalSpheres * 0.6f)
         {
             // Horizontal line from -r to r
-            float x = Mathf.Lerp(-r, r, (float)i / (totalSpheres * 0.6f));  
-            float y = 0f; // y = 0 for horizontal line
+            float x = Mathf.Lerp(-r, r , (float)i / (totalSpheres * 0.6f));  
+            float y = -3f; // y = 0 for horizontal line
             return new Vector3(x, y, -10f);
         }
         else
@@ -198,8 +205,8 @@ public class AudioReactive : MonoBehaviour
             // Diagonal lines meeting at (0, 3)
             float yMeet = 3f;
 
-            Vector3 endPoint1 = new Vector3(-2f, -2f, -10f); // Left diagonal endpoint
-            Vector3 endPoint2 = new Vector3(2f, -2f, -10f);  // Right diagonal endpoint
+            Vector3 endPoint1 = new Vector3(-6f, -6f, -10f); // Left diagonal endpoint
+            Vector3 endPoint2 = new Vector3(6f, -6f, -10f);  // Right diagonal endpoint
 
             if (progress < 0.5f)
             {
@@ -218,3 +225,6 @@ public class AudioReactive : MonoBehaviour
         }
     }
 }
+
+
+
