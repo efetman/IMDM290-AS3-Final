@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numberOfSpheres: 100
-  totalDisappearTime: 1
+  totalDisappearTime: 2
   waveSpeed: 15
   waveHeight: 3
 --- !u!4 &289451544
