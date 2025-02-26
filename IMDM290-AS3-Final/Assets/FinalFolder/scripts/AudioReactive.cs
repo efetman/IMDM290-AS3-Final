@@ -155,7 +155,7 @@ public class AudioReactive : MonoBehaviour
             }
         }
         // 5th part 
-        else if (Time.time > 72.6f && Time.time <= 81)
+        else if (Time.time > 72.6f && Time.time <= 84)
         {
             for (int i = 0; i < totalSpheres; i++)
             {
@@ -168,13 +168,13 @@ public class AudioReactive : MonoBehaviour
 
                 spheres[i].transform.position = newPos;
 
-                float scale = 1f + AudioSpectrum.audioAmp;
+                float scale = 1f + AudioSpectrum.audioAmp/2f;
                 spheres[i].transform.localScale = new Vector3(scale, scale, scale);
 
                 spheres[i].transform.Rotate(AudioSpectrum.audioAmp, 1.0f, 1.0f);
             }
         }
-        else if(Time.time > 81){
+        else if(Time.time > 85){
             for (int i = 0; i < totalSpheres; i++)
             {
                 spheres[i].SetActive(false);

@@ -18,7 +18,7 @@ public class SpiralSpawners : MonoBehaviour
     private float baseSpacing;
     private float startTime;
     private float openDelay = 45f;
-    private float firstColorChangeTime = 27f; // second for first color change (white and black)
+    private float firstColorChangeTime = 29f; // second for first color change (white and black)
     private float secondColorChangeTime = 66f; // second for second color change (all black)
 
     private void Start()
