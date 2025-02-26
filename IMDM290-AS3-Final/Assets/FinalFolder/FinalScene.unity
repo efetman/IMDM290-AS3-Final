@@ -199,7 +199,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   numberOfSpheres: 100
-  totalDisappearTime: 0.3
+  totalDisappearTime: 1
   waveSpeed: 15
   waveHeight: 3
 --- !u!4 &289451544
@@ -447,8 +447,8 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 10a11422a8b834f1ca02ac17429d248d, type: 3}
-  m_Resource: {fileID: 8300000, guid: 10a11422a8b834f1ca02ac17429d248d, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 9817a2f2619f74416b7382584253048c, type: 3}
+  m_Resource: {fileID: 8300000, guid: 9817a2f2619f74416b7382584253048c, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -546,7 +546,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 21edd1c3accd14564927fa0dfbd7ba32, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  startDelay: 4
+  startDelay: 3
   sphereSpawnDelay: 0.03
   transitionSpeed: 1
 --- !u!4 &781461381
